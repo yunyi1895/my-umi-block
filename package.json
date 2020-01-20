@@ -1,0 +1,23 @@
+{
+  "name": "@umi-block/my-umi-block",
+  "version": "0.0.1",
+  "description": "测试区块",
+  "main": "src/index.js",
+  "authors": {
+    "name": "cmf",
+    "email": "1903980333@qq.com"
+  },
+  "repository": "umijs/umi-blocks/my-umi-block",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-types": "^0.3.0"
+  },
+  "license": "MIT"
+}
