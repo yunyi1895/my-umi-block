@@ -1,5 +1,5 @@
 {
-  "name": "@umi-block/my-umi-block",
+  "name": "@umi-block/myUmiBlock",
   "version": "0.0.1",
   "description": "测试区块",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
     "name": "cmf",
     "email": "1903980333@qq.com"
   },
-  "repository": "umijs/umi-blocks/my-umi-block",
+  "repository": "umijs/umi-blocks/myUmiBlock",
   "scripts": {
     "dev": "umi dev"
   },
